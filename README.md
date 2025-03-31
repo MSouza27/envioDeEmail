@@ -11,7 +11,7 @@ Este projeto demonstra como enviar e-mails utilizando JavaMail, incluindo suport
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 8+**
+- **Java 21+**
 - **JavaMail API**
 - **iText PDF** (para geração de PDFs)
 
