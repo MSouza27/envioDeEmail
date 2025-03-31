@@ -26,7 +26,7 @@ import java.util.Properties;
 public class ObjetoEnviaEmail {
 
     private String userName = "magnoemailjava@gmail.com";
-    private String password = "vhnyeptmwohtcdwd";
+    private String password = "*********";
     private String listaDestinatarios = "";
     private String nomeRemetente = "";
     private String assuntoEmail = "";
